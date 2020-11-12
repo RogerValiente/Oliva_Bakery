@@ -8,12 +8,12 @@
 header .carousel-borde img,
 header .carousel-borde {
   width: 100%;
-  height: 400px;
+  height: auto;
 }
 
 header .carousel-logo img {
-  width: 10%;
-  height: 10%;
+  width: 15%;
+  height: 15%;
 }
 
 #main-menu img {
@@ -370,11 +370,7 @@ footer .footer-copyright {
     margin-top: 5px;
   }
 
-  .carousel-borde .carousel-logo img {
-    width: 60px;
-    height: 60px;
-  }
-
+  
   #title-styc h2,
   #title-home h2 {
     font-size: 1.5rem;
@@ -455,10 +451,6 @@ footer .footer-copyright {
     margin-top: 5px;
   }
 
-  .carousel-borde .carousel-logo img {
-    width: 80px;
-    height: 80px;
-  }
 
   #title-styc,
   #title-home {
