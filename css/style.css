@@ -382,6 +382,18 @@ footer .footer-copyright {
     margin-top: 10px;
   }
 
+
+  .box-productos img {
+    width: 100%;
+    height:auto;
+
+  }
+
+  .box-product img {
+    width: 100%;
+    height:auto;
+  }
+
   .section-title {
     height: 2.5rem;
   }
